@@ -1,0 +1,11 @@
+Customer_Age,Gender,Dependent_count,Education_Level,Marital_Status,Income_Category,Card_Cateory
+45,,3,High School,Married,$60K - $80K,Blue
+49,F,5,Graduate,Single,Less than $40K,Blue
+51,M,3,,Married,$80K - $120K,Blue
+40,F,4,High School,Unknown,Less than $40K,Blue
+40,M,,Uneducated,Married,$60K - $80K,Blue
+44,,2,Graduate,Married,$40K - 60K,Blue
+51,M,4,Unknown,Married,$120K  +,Gold
+32,M,0,High School,Unknown,$60K - $80K,Silver
+37,M,3,Uneducated,Single,$60K - $80K,Blue
+48,M,2,Graduate,Single,$80K - $120K,Blue
